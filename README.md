@@ -5,7 +5,8 @@ Mostly files are related to Voron Switchwire (Ender SW) build, however might be 
 
 All files are distributed free under GPL 3.0 license.
 
-If you like my work though and willing to say thanks:
+**If you like my work though and willing to say thanks:
+**
 
 BTC: 3Aowwc9Z1ZZVS7yC71rQ3KFGdD9LmeenDc
 ETH: 0xBD733B474413C8A93e827D3460775D2227710Bf0
