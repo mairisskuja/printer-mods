@@ -1,6 +1,6 @@
 # Modified frame panels for Ender SW (Voron Switchwire) conversion
 
-This is a remix of original frame panel files from [Boubounokefalos original repo](https://github.com/boubounokefalos/Ender_SW)
+This is a remix of original frame panel files from [Boubounokefalos original repo](https://github.com/boubounokefalos/Ender_SW).
 
 — Additional 3mm bottom cutouts added, while laving 5mm perimeter height and 5mm perimeter frame. Benefits — cuts print time to almost half, the same is for amount of filament used while keeping structural integrity for panels good enough to serve without issues in long run.
 
