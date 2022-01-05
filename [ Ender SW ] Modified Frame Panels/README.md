@@ -24,4 +24,8 @@ Supports: None.
 
 # Images and visualisations
 
+Actual print example
+![Actual print example](https://github.com/mairisskuja/printer-mods/blob/main/%5B%20Ender%20SW%20%5D%20Modified%20Frame%20Panels/Images/panel_photo_0.png)
+
+Render (Z flipped 180 degrees)
 ![Visualisation flipped](https://github.com/mairisskuja/printer-mods/blob/main/%5B%20Ender%20SW%20%5D%20Modified%20Frame%20Panels/Images/comp_flipped.png)
