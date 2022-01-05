@@ -27,6 +27,7 @@ Supports: None.
 Bottom render (actually showing the point of all this)
 ![Bottom render](https://github.com/mairisskuja/printer-mods/blob/main/%5B%20Ender%20SW%20%5D%202020%20Extrusion%20Endcaps/Images/render_example.png)
 
+Actual print example
 ![Actual print example](https://raw.githubusercontent.com/mairisskuja/printer-mods/main/%5B%20Ender%20SW%20%5D%202020%20Extrusion%20Endcaps/Images/endcaps_printed.png)
 
 Top render
