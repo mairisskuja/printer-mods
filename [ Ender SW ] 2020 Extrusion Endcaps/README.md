@@ -1,6 +1,6 @@
 # Voron style(d) 2020 extrusion endcaps
 
-— Put some effort "dancing with a tambourine" in CAD to get center part details with aim to fit perfectly into extrusions and allow some space to correct center hole differences for extrusiom from differrent manufacturers. Now they fits perfecly, do not fall off and allow and do not require perfect flowrate to print.
+— Put some effort "dancing with a tambourine" in CAD to get center part details with aim to fit perfectly into extrusions and allow some space to correct center hole differences for 2020 extrusions from differrent manufacturers. Now they fits perfecly, do not fall off and allow and do not require perfect flowrate to print.
 
 — Voron logo serves no practical purpose but gives you a warm fuzzy feling :)
 
