@@ -7,5 +7,5 @@ All files are distributed free under GPL 3.0 license.
 
 Repo for toolhead mods: https://github.com/mairisskuja/toolheads
 
-I create some stuff and share it with the world. Not doing this for the coffees, but sure they are appreciated.
-[Buy me a coffee](https://www.buymeacoffee.com/iconicfab)
+___________________________________________________
+>I create some stuff and share it with the world. Not doing this for the coffees, but sure they are appreciated. [Buy me a coffee (https://www.buymeacoffee.com/iconicfab)
